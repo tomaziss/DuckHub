@@ -1,0 +1,9 @@
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond/bin/Debug/netcoreapp2.0/HomeworkSecond.deps.json
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond/bin/Debug/netcoreapp2.0/HomeworkSecond.dll
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond/bin/Debug/netcoreapp2.0/HomeworkSecond.pdb
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond/obj/Debug/netcoreapp2.0/HomeworkSecond.csprojResolveAssemblyReference.cache
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond/obj/Debug/netcoreapp2.0/HomeworkSecond.csproj.CoreCompileInputs.cache
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond/obj/Debug/netcoreapp2.0/HomeworkSecond.AssemblyInfoInputs.cache
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond/obj/Debug/netcoreapp2.0/HomeworkSecond.AssemblyInfo.cs
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond/obj/Debug/netcoreapp2.0/HomeworkSecond.dll
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond/obj/Debug/netcoreapp2.0/HomeworkSecond.pdb

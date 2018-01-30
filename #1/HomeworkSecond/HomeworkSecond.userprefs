@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{B69DD12C-8134-436B-BA2C-205D2ADC4569}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HomeworkSecond/ArraySorter.cs">
+    <Files>
+      <File FileName="HomeworkSecond/ArraySorter.cs" Line="16" Column="18" />
+      <File FileName="HomeworkSecond.Tests/ArraySorterTests.cs" Line="42" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="HomeworkSecond" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HomeworkSecond.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

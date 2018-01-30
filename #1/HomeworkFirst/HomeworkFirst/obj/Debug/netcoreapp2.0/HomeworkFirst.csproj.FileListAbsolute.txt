@@ -1,0 +1,11 @@
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst/bin/Debug/netcoreapp2.0/HomeworkFirst.deps.json
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst/bin/Debug/netcoreapp2.0/HomeworkFirst.runtimeconfig.json
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst/bin/Debug/netcoreapp2.0/HomeworkFirst.runtimeconfig.dev.json
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst/bin/Debug/netcoreapp2.0/HomeworkFirst.dll
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst/bin/Debug/netcoreapp2.0/HomeworkFirst.pdb
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst/obj/Debug/netcoreapp2.0/HomeworkFirst.csprojResolveAssemblyReference.cache
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst/obj/Debug/netcoreapp2.0/HomeworkFirst.csproj.CoreCompileInputs.cache
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst/obj/Debug/netcoreapp2.0/HomeworkFirst.AssemblyInfoInputs.cache
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst/obj/Debug/netcoreapp2.0/HomeworkFirst.AssemblyInfo.cs
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst/obj/Debug/netcoreapp2.0/HomeworkFirst.dll
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst/obj/Debug/netcoreapp2.0/HomeworkFirst.pdb

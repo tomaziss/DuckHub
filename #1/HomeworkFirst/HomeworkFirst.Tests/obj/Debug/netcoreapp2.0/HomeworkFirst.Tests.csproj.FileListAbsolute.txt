@@ -1,0 +1,16 @@
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst.Tests/bin/Debug/netcoreapp2.0/HomeworkFirst.Tests.deps.json
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst.Tests/bin/Debug/netcoreapp2.0/HomeworkFirst.Tests.runtimeconfig.json
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst.Tests/bin/Debug/netcoreapp2.0/HomeworkFirst.Tests.runtimeconfig.dev.json
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst.Tests/bin/Debug/netcoreapp2.0/HomeworkFirst.Tests.dll
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst.Tests/bin/Debug/netcoreapp2.0/HomeworkFirst.Tests.pdb
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst.Tests/bin/Debug/netcoreapp2.0/HomeworkFirst.dll
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst.Tests/bin/Debug/netcoreapp2.0/HomeworkFirst.pdb
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst.Tests/obj/Debug/netcoreapp2.0/HomeworkFirst.Tests.csprojResolveAssemblyReference.cache
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst.Tests/obj/Debug/netcoreapp2.0/HomeworkFirst.Tests.csproj.CoreCompileInputs.cache
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst.Tests/obj/Debug/netcoreapp2.0/HomeworkFirst.Tests.AssemblyInfoInputs.cache
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst.Tests/obj/Debug/netcoreapp2.0/HomeworkFirst.Tests.AssemblyInfo.cs
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst.Tests/obj/Debug/netcoreapp2.0/HomeworkFirst.Tests.dll
+/Users/tomas/repos/DuckHub/#1/HomeworkFirst/HomeworkFirst.Tests/obj/Debug/netcoreapp2.0/HomeworkFirst.Tests.pdb

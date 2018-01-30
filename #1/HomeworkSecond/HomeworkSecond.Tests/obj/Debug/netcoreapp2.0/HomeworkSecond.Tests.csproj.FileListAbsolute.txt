@@ -1,0 +1,16 @@
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond.Tests/bin/Debug/netcoreapp2.0/HomeworkSecond.Tests.deps.json
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond.Tests/bin/Debug/netcoreapp2.0/HomeworkSecond.Tests.runtimeconfig.json
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond.Tests/bin/Debug/netcoreapp2.0/HomeworkSecond.Tests.runtimeconfig.dev.json
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond.Tests/bin/Debug/netcoreapp2.0/HomeworkSecond.Tests.dll
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond.Tests/bin/Debug/netcoreapp2.0/HomeworkSecond.Tests.pdb
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond.Tests/bin/Debug/netcoreapp2.0/HomeworkSecond.dll
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond.Tests/bin/Debug/netcoreapp2.0/HomeworkSecond.pdb
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond.Tests/obj/Debug/netcoreapp2.0/HomeworkSecond.Tests.csprojResolveAssemblyReference.cache
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond.Tests/obj/Debug/netcoreapp2.0/HomeworkSecond.Tests.csproj.CoreCompileInputs.cache
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond.Tests/obj/Debug/netcoreapp2.0/HomeworkSecond.Tests.AssemblyInfoInputs.cache
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond.Tests/obj/Debug/netcoreapp2.0/HomeworkSecond.Tests.AssemblyInfo.cs
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond.Tests/obj/Debug/netcoreapp2.0/HomeworkSecond.Tests.dll
+/Users/tomas/repos/DuckHub/#1/HomeworkSecond/HomeworkSecond.Tests/obj/Debug/netcoreapp2.0/HomeworkSecond.Tests.pdb

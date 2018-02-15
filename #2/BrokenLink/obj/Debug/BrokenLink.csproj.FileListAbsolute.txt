@@ -1,0 +1,15 @@
+/Users/tomas/repos/DuckHub/#2/BrokenLink/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/tomas/repos/DuckHub/#2/BrokenLink/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/tomas/repos/DuckHub/#2/BrokenLink/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/tomas/repos/DuckHub/#2/BrokenLink/bin/Debug/BrokenLink.exe.config
+/Users/tomas/repos/DuckHub/#2/BrokenLink/bin/Debug/BrokenLink.exe
+/Users/tomas/repos/DuckHub/#2/BrokenLink/bin/Debug/BrokenLink.pdb
+/Users/tomas/repos/DuckHub/#2/BrokenLink/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+/Users/tomas/repos/DuckHub/#2/BrokenLink/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/Users/tomas/repos/DuckHub/#2/BrokenLink/bin/Debug/TestToolsToXunitProxy.dll
+/Users/tomas/repos/DuckHub/#2/BrokenLink/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+/Users/tomas/repos/DuckHub/#2/BrokenLink/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+/Users/tomas/repos/DuckHub/#2/BrokenLink/obj/Debug/BrokenLink.csprojResolveAssemblyReference.cache
+/Users/tomas/repos/DuckHub/#2/BrokenLink/obj/Debug/BrokenLink.csproj.CoreCompileInputs.cache
+/Users/tomas/repos/DuckHub/#2/BrokenLink/obj/Debug/BrokenLink.exe
+/Users/tomas/repos/DuckHub/#2/BrokenLink/obj/Debug/BrokenLink.pdb

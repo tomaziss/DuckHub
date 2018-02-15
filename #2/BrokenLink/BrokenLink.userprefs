@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C631D148-2B0E-4224-8D73-F567C0A16A6C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="packages.config">
+    <Files>
+      <File FileName="Program.cs" Line="16" Column="39" />
+      <File FileName="QuackedList.cs" Line="13" Column="39" />
+      <File FileName="../BrokenLink.Tests/Tests.cs" Line="2" Column="52" />
+      <File FileName="../BrokenLink.Tests/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="../BrokenLink.Tests/packages.config" Line="5" Column="12" />
+      <File FileName="App.config" Line="5" Column="15" />
+      <File FileName="packages.config" Line="4" Column="81" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="BrokenLink" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BrokenLink PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

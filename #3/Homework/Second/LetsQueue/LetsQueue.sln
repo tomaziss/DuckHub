@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetsQueue", "LetsQueue.csproj", "{013A7C34-C5AE-4B38-8718-910750315814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetsQueue.Tests", "LetsQueue.Tests\LetsQueue.Tests.csproj", "{A943F615-9F76-497D-8EF6-3EAFD7C7ADB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{013A7C34-C5AE-4B38-8718-910750315814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{013A7C34-C5AE-4B38-8718-910750315814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{013A7C34-C5AE-4B38-8718-910750315814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{013A7C34-C5AE-4B38-8718-910750315814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A943F615-9F76-497D-8EF6-3EAFD7C7ADB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A943F615-9F76-497D-8EF6-3EAFD7C7ADB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A943F615-9F76-497D-8EF6-3EAFD7C7ADB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A943F615-9F76-497D-8EF6-3EAFD7C7ADB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FF54D61-87D6-4538-A4AD-CCA2EB3E107B}
+	EndGlobalSection
+EndGlobal

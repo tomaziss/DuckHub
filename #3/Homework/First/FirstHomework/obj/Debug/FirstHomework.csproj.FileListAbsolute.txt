@@ -1,0 +1,7 @@
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\First\FirstHomework\bin\Debug\FirstHomework.exe.config
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\First\FirstHomework\bin\Debug\FirstHomework.exe
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\First\FirstHomework\bin\Debug\FirstHomework.pdb
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\First\FirstHomework\obj\Debug\FirstHomework.csprojResolveAssemblyReference.cache
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\First\FirstHomework\obj\Debug\FirstHomework.csproj.CoreCompileInputs.cache
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\First\FirstHomework\obj\Debug\FirstHomework.exe
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\First\FirstHomework\obj\Debug\FirstHomework.pdb

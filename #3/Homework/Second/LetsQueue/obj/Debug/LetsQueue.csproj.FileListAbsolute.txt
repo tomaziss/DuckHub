@@ -1,0 +1,7 @@
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\Second\LetsQueue\bin\Debug\LetsQueue.exe.config
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\Second\LetsQueue\bin\Debug\LetsQueue.exe
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\Second\LetsQueue\bin\Debug\LetsQueue.pdb
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\Second\LetsQueue\obj\Debug\LetsQueue.csprojResolveAssemblyReference.cache
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\Second\LetsQueue\obj\Debug\LetsQueue.csproj.CoreCompileInputs.cache
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\Second\LetsQueue\obj\Debug\LetsQueue.exe
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\Second\LetsQueue\obj\Debug\LetsQueue.pdb

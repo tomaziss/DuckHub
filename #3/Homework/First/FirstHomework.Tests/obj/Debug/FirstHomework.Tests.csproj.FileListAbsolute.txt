@@ -1,0 +1,16 @@
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\First\FirstHomework.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\First\FirstHomework.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\First\FirstHomework.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\First\FirstHomework.Tests\bin\Debug\Tests.dll
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\First\FirstHomework.Tests\bin\Debug\Tests.pdb
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\First\FirstHomework.Tests\bin\Debug\FirstHomework.exe
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\First\FirstHomework.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\First\FirstHomework.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\First\FirstHomework.Tests\bin\Debug\FirstHomework.pdb
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\First\FirstHomework.Tests\bin\Debug\FirstHomework.exe.config
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\First\FirstHomework.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\First\FirstHomework.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\First\FirstHomework.Tests\obj\Debug\FirstHomework.Tests.csprojResolveAssemblyReference.cache
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\First\FirstHomework.Tests\obj\Debug\FirstHomework.Tests.csproj.CoreCompileInputs.cache
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\First\FirstHomework.Tests\obj\Debug\Tests.dll
+C:\Users\bc6053\Downloads\Homework-master\Homework-master\#3\Homework\First\FirstHomework.Tests\obj\Debug\Tests.pdb
